@@ -6,7 +6,7 @@
 <channel>
 <name>[B][COLOR white]FILMES - [COLOR gold]LANÇAMENTOS[/COLOR][/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://here</externallink>
+<externallink>https://raw.githubusercontent.com/SuperTVPLAY/tvplay/master/Filmes/Filmes-Lan%C3%A7amentos.xml</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -14,7 +14,7 @@
 <channel>
 <name>[B][COLOR white]FILMES - [COLOR gold]AÇÃO[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://here</externallink>
+<externallink>https://raw.githubusercontent.com/SuperTVPLAY/tvplay/master/Filmes/Filmes-A%C3%A7%C3%A3o.xml</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -22,7 +22,7 @@
 <channel>
 <name>[B][COLOR white]FILMES - [COLOR gold]ANIMAÇÃO[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://here</externallink>
+<externallink>https://raw.githubusercontent.com/SuperTVPLAY/tvplay/master/Filmes/Filmes-Anima%C3%A7%C3%A3o.xml</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
