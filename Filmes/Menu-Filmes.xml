@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layouttype>thumbnail</layouttype>
-
+ 
 <channels>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
+<name>[B][COLOR white]FILMES - [COLOR gold]LANÇAMENTOS[/COLOR][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
@@ -12,17 +12,17 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
+<name>[B][COLOR white]FILMES - [COLOR gold]AÇÃO[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info></info>
-</channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]SÉRIES[/COLOR][/B]</name>
+<name>[B][COLOR white]FILMES - [COLOR gold]ANIMAÇÃO[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info></info>
+
 </channel>
