@@ -1,1 +1,1 @@
-# tvplay
+# Addon SuperTVPLAY
