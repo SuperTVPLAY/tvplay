@@ -6,7 +6,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/SuperTVPLAY/tvplay/master/TV/Menu-TV.xml</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -14,7 +14,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/SuperTVPLAY/tvplay/master/Filmes/Menu-Filmes.xml</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -22,7 +22,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SÉRIES[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/SuperTVPLAY/tvplay/master/Series/Menu-Series.xml</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
