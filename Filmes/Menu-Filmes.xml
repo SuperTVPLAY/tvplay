@@ -27,4 +27,10 @@
 <info></info>
 </channel>
 
-</channels>
+<channel>
+<name>[B][COLOR white]FILMES - [COLOR gold]TESTE[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/SuperTVPLAY/tvplay/master/Filmes/Filmes-Anima%C3%A7%C3%A3o.xml</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
