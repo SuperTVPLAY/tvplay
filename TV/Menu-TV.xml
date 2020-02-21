@@ -10,10 +10,10 @@
 <info>teste IPTV</info>
 
  
-
-<name>[B][COLOR white]SERVIDOR: 1[/B][/COLOR] [COLOR gold][B][REDECANAIS][/B][/COLOR]</name>
+<channel>
+<name>[B][COLOR white]SERVIDOR: 1[/B][/COLOR] [COLOR pink][B][servidor 1][/B][/COLOR]</name>
 <thumbnail></thumbnail>
  <item>
 <title>TESTE canal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://assistirpainel.ddns.net:8880/live/u68b2vp7ak/bsnju8emqr/13774.m3u8</linkinfo>teste IPTV</info>
+<link>plugin://plugin.video.f4mTester/?url=https://meocloud.pt/link/80c8cf62-a1b9-491c-a891-b246032c49db/servidor.ts</linkinfo>teste IPTV</info>
 
