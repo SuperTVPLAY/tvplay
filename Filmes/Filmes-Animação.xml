@@ -1,3 +1,27 @@
+   <channels>
+</channels><channel>
+<name>[COLOR white][B] FABULAS DA DISNEY[/B][/COLOR]</name>********************************************************************************
+
+
+<item>
+<title>[COLOR PINK][B] O ALPINISTA-> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=177GN7EUsDxFgbWODcyog5uBWm1EA282v</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/mgK6hweHM5jrkoFksjycrxtCF4a.jpg</thumbnail>
+<fanart>https://jornaldebrasilia.com.br/wp-content/uploads/2020/01/disney.jpeg</fanart>
+</item>
+  
+<item>
+<title>[COLOR PINK][B] NO GELO[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=15QkPF7DK7wDykiKTy_wGrvc-vi6-qHMB</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/mgK6hweHM5jrkoFksjycrxtCF4a.jpg</thumbnail>
+<fanart>https://jornaldebrasilia.com.br/wp-content/uploads/2020/01/disney.jpeg</fanart>
+</item>
+
+
+
+
+
+
 <item>
 <title>[B][COLOR white]FILMES - [COLOR aquamarine]ANIMAÇÃO[/COLOR][/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/fmdId42.jpg</thumbnail>
