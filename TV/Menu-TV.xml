@@ -11,7 +11,7 @@
  
  <item>
 <title>[B][COLOR white] teste canais[/COLOR][/B]</title>
-<link>https://meocloud.pt/link/8e99de70-07ea-4039-b262-4b182149195c/SERVIDOR%201.m3u/</link>
+<link>https://cld.pt/dl/download/65d2e0b2-e3c0-4876-b658-e427f416b993/jessicatv.site.m3u.xml?download=true</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>Sinopse: testetestetstetstststst.</info>
@@ -23,5 +23,5 @@
 <thumbnail></thumbnail>
  <item>
 <title>TESTE canal</title>
-<link>plugin://plugin.video.f4mTester/?url=https://meocloud.pt/link/8e99de70-07ea-4039-b262-4b182149195c/SERVIDOR%201.m3u/</linkinfo>teste IPTV</info>
+<link>plugin://plugin.video.f4mTester/?url=https://cld.pt/dl/download/65d2e0b2-e3c0-4876-b658-e427f416b993/jessicatv.site.m3u.xml?download=true</linkinfo>teste IPTV</info>
 
